@@ -1,7 +1,8 @@
 # __Switch Custom Game Icons__
 
-*Using **sys-tweak** on atmosphere simply put icons in the right content folder ie: atmosphere/contents/[TITLEIDHERE]/icon.jpg*
-or download the zip from this repo and extract it to the root of your SD card
+*Using **sys-tweak** on atmosphere simply put icons in the right content folder ie: 
+*atmosphere/contents/[TITLEIDHERE]/icon.jpg*
+or __download the zip__ from this repo and *extract it to the root of your SD card*
 
 ## This repo is just a back up for icons I've made using the guide from [gbatemp:video_game:](https://gbatemp.net/threads/custom-game-icons-tutorial-and-sharing-hub-no-forwarders.574675/)
 
