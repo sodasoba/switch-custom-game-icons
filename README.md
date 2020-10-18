@@ -7,7 +7,7 @@ or download the zip from this repo and extract it to the root of your SD card
 
 *I'm still tring to figure out github I've never really attempted to use it before*
 
-(/icon/0-9.md)[0-9] | [A]
+[0-9](/icon/0-9.md) | [A]
 
 
 <!--Tables--->
