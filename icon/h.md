@@ -1,11 +1,5 @@
 <!--hades-->
 
-| ![Hades - 001](/icon/preview/h/hades-icon-001-[0100535012974000].jpg) 
-| ![Hades - 002](/icon/preview/h/hades-icon-002-[0100535012974000].jpg) 
-| ![Hades - 003](/icon/preview/h/hades-icon-003-[0100535012974000].jpg) 
-| ![Hades - 004](/icon/preview/h/hades-icon-004-[0100535012974000].jpg) 
-| ![Hades - 005](/icon/preview/h/hades-icon-005-[0100535012974000].jpg) 
-| ![Hades - 006](/icon/preview/h/hades-icon-006-[0100535012974000].jpg) 
-| ![Hades - 007](/icon/preview/h/hades-icon-007-[0100535012974000].jpg) |
+| ![Hades - 001](/icon/preview/h/hades-icon-001-[0100535012974000].jpg) | ![Hades - 002](/icon/preview/h/hades-icon-002-[0100535012974000].jpg) | ![Hades - 003](/icon/preview/h/hades-icon-003-[0100535012974000].jpg) | ![Hades - 004](/icon/preview/h/hades-icon-004-[0100535012974000].jpg) | ![Hades - 005](/icon/preview/h/hades-icon-005-[0100535012974000].jpg) | ![Hades - 006](/icon/preview/h/hades-icon-006-[0100535012974000].jpg) | ![Hades - 007](/icon/preview/h/hades-icon-007-[0100535012974000].jpg) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Download: [Hades - 001](../../../raw/main/icon/zip/hades-icon-001-[0100535012974000].zip) | Download: [Hades - 002](../../../raw/main/icon/zip/hades-icon-002-[0100535012974000].zip) | Download: [Hades - 003](../../../raw/main/icon/zip/hades-icon-003-[0100535012974000].zip) | Download: [Hades - 004](../../../raw/main/icon/zip/hades-icon-004-[0100535012974000].zip) | Download: [Hades - 005](../../../raw/main/icon/zip/hades-icon-005-[0100535012974000].zip) | Download: [Hades - 006](../../../raw/main/icon/zip/hades-icon-006-[0100535012974000].zip) | Download: [Hades - 007](../../../raw/main/icon/zip/hades-icon-007-[0100535012974000].zip) |
